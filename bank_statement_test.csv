@@ -1,0 +1,41 @@
+Date,Details,Amount,Currency,Debit/Credit,Status
+2025-03-01,Gym Membership,376.49,MYR,Credit,Completed
+2025-03-03,Card Payment - Shop,1385.00,MYR,Credit,Completed
+2025-03-03,E-commerce Purchase,564.32,MYR,Debit,Completed
+2025-03-03,Subscription - Streaming,758.86,MYR,Credit,Completed
+2025-03-04,ATM Withdrawal,1371.44,MYR,Credit,Completed
+2025-03-09,Restaurant,327.59,MYR,Debit,Pending
+2025-03-10,Insurance Premium,226.65,MYR,Credit,Completed
+2025-03-10,Transfer to Savings,295.38,MYR,Debit,Completed
+2025-03-10,Refund - Merchant,805.86,MYR,Debit,Completed
+2025-03-10,Grocery Store,89.67,MYR,Debit,Completed
+2025-03-10,Electricity Bill,94.16,MYR,Debit,Completed
+2025-03-11,Refund - Merchant,969.52,MYR,Debit,Completed
+2025-03-14,E-commerce Purchase,960.81,MYR,Credit,Completed
+2025-03-16,Gym Membership,807.67,MYR,Debit,Completed
+2025-03-16,Electricity Bill,739.27,MYR,Credit,Completed
+2025-03-20,Card Payment - Shop,923.48,MYR,Debit,Completed
+2025-03-21,Cash Deposit,301.25,MYR,Debit,Completed
+2025-03-22,Gym Membership,1027.10,MYR,Debit,Completed
+2025-03-22,Card Payment - Shop,885.19,MYR,Credit,Completed
+2025-03-22,Water Bill,273.83,MYR,Debit,Completed
+2025-03-23,E-commerce Purchase,1196.80,MYR,Debit,Completed
+2025-03-24,Transfer to Savings,122.94,MYR,Credit,Completed
+2025-03-27,Gym Membership,744.13,MYR,Debit,Completed
+2025-03-27,Coffee Shop,907.54,MYR,Debit,Completed
+2025-03-28,Water Bill,709.04,MYR,Debit,Completed
+2025-04-02,Salary Payment,279.99,MYR,Debit,Completed
+2025-04-03,Card Payment - Shop,800.96,MYR,Credit,Completed
+2025-04-04,Gas Station,163.46,MYR,Credit,Completed
+2025-04-06,Payroll Refund,30.80,MYR,Credit,Pending
+2025-04-10,ATM Withdrawal,309.55,MYR,Debit,Completed
+2025-04-10,Grocery Store,67.51,MYR,Credit,Completed
+2025-04-11,Card Payment - Shop,158.43,MYR,Debit,Completed
+2025-04-13,Interest Credit,77.91,MYR,Credit,Completed
+2025-04-19,Payroll Refund,14.19,MYR,Credit,Completed
+2025-04-22,Gym Membership,547.20,MYR,Debit,Pending
+2025-04-22,Electricity Bill,178.35,MYR,Debit,Completed
+2025-04-24,Card Payment - Shop,18.72,MYR,Debit,Completed
+2025-04-27,Card Payment - Shop,499.94,MYR,Credit,Completed
+2025-04-27,Cash Deposit,720.74,MYR,Debit,Completed
+2025-04-28,Restaurant,509.48,MYR,Debit,Completed
