@@ -1,0 +1,51 @@
+{
+    "Uncategorized": [],
+
+    "Fitness & Health": [
+        "Gym Membership"
+    ],
+
+    "Shopping": [
+        "Card Payment - Shop",
+        "E-commerce Purchase",
+        "Coffee Shop"
+    ],
+
+    "Utilities": [
+        "Electricity Bill",
+        "Water Bill",
+        "Gas Station"
+    ],
+
+    "Groceries": [
+        "Grocery Store"
+    ],
+
+    "Dining": [
+        "Restaurant"
+    ],
+
+    "Savings & Transfers": [
+        "Transfer to Savings",
+        "Cash Deposit"
+    ],
+
+    "Bank Transactions": [
+        "ATM Withdrawal"
+    ],
+
+    "Income & Refunds": [
+        "Salary Payment",
+        "Refund - Merchant",
+        "Interest Credit",
+        "Payroll Refund"
+    ],
+
+    "Insurance": [
+        "Insurance Premium"
+    ],
+
+    "Subscriptions": [
+        "Subscription - Streaming"
+    ]
+}
