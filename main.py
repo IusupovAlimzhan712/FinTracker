@@ -175,9 +175,6 @@ def main():
                 st.plotly_chart(fig, use_container_width=True)
 
 
-
-
-
             with tab2:
                 st.subheader("Payments Summary")
                 total_payments = credits_df["Amount"].sum()
